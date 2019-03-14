@@ -36,6 +36,7 @@
   "bugs": "https://github.com/eslint/eslint/issues/",
   "dependencies": {
     "@babel/code-frame": "^7.0.0",
+    "@humanwhocodes/object-schema": "^0.1.0",
     "ajv": "^6.9.1",
     "chalk": "^2.1.0",
     "cross-spawn": "^6.0.5",
@@ -48,6 +49,7 @@
     "esquery": "^1.0.1",
     "esutils": "^2.0.2",
     "file-entry-cache": "^5.0.1",
+    "findup-sync": "^3.0.0",
     "functional-red-black-tree": "^1.0.1",
     "glob": "^7.1.2",
     "globals": "^11.7.0",
